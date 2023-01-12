@@ -1,0 +1,24 @@
+
+.facts-container li{
+    list-style: none;
+    margin: auto;
+    width: 50%;
+    padding: 25px;
+    text-align: left;
+}
+
+footer {
+    background-color: white;
+}
+
+header {
+    background-color: white;
+}
+
+img {
+    width: 700px;
+}
+
+body {
+    background-color: beige;
+}
