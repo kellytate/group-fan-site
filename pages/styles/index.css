@@ -12,4 +12,14 @@ footer {
 
 *{
     background-color: beige;
+
 }
+
+
+#noodle-info {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:large;
+    color:rgb(29, 20, 20);
+    text-align: justify;
+}
+
