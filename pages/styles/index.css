@@ -20,6 +20,10 @@ footer {
     font-family:'Courier New', Courier, monospace;
     font-size:large;
     color:rgb(29, 20, 20);
+    text-align: center;}
+
+
+img {
+    margin:auto;
     text-align: center;
-
-
+}
