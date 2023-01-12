@@ -1,0 +1,15 @@
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    color: rgb(182, 36, 97);
+    border-style:dotted;
+    border-color: rgb(102, 102, 200);
+    border-width: 5px;
+}
+
+*{
+    background-color: beige;
+}
