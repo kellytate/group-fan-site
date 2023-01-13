@@ -15,7 +15,7 @@
     display: inline;
 }
 
-#img-card {
+.img-card {
     position: relative;
 }
 
@@ -45,7 +45,7 @@ img:hover {
     transition: .5s ease;
 }
 
-#img-card:hover .title {
+.img-card:hover .title {
     top: 145px;
     background-color: transparent;
 }
