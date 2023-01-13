@@ -1,0 +1,53 @@
+.container {
+    margin: auto;
+    padding: 10px;
+}
+
+.container ul {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    list-style: none;
+}
+
+.container li {
+    padding: 10px;
+    display: inline;
+}
+
+.img-card {
+    position: relative;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+    transition: .5s ease;
+}
+
+img:hover {
+    filter: brightness(30%)
+}
+.overlay:hover {
+    opacity: 1;
+}
+
+.title {
+    color: white;
+    background-color: black;
+    padding: 10px;
+    font-size: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    transition: .5s ease;
+}
+
+.img-card:hover .title {
+    top: 145px;
+    background-color: transparent;
+}
+
+
