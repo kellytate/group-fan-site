@@ -15,19 +15,36 @@ footer {
 
 }
 
+.container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    width: 1200px;
+    height: 700px;
+    background-color: lightgrey;
+}
+
+img {
+    width: 350px;
+    height: 350px;
+  }
 
 #noodle-info {
     font-family:'Courier New', Courier, monospace;
     font-size:large;
     color:rgb(29, 20, 20);
-    text-align: center;}
+    text-align: center;
+
+}
 
 
 div {
     text-align: center;
 }
 
-img{
+/* img{
     width: 800px;
     height: 500px;
-}
+} */
