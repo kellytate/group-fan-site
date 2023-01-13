@@ -16,6 +16,15 @@ body {
 
 }
 
+a {
+    text-decoration: none;
+    color: #3D3D3D;
+}
+
+a:hover {
+    color: #000000;
+}
+
 .facts-container {
     grid-column: 3 / 4;
     
