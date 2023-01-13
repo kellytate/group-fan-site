@@ -27,7 +27,6 @@ a:hover {
 
 .facts-container {
     grid-column: 3 / 4;
-    
 }
 
 #facts {
@@ -48,6 +47,10 @@ a:hover {
 
 #facts img {
     width: 500px;
+}
+
+#facts h1 {
+    text-align: center;
 }
 
 footer {
